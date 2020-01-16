@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+}
+
+#turtles, #snakes, #insects{
+  display: none;
+}
+
+#turtlePic{
+  width: 250px;
+}
+
+#snakePic{
+  width: 300px;
+  height: 250px;
+}
+
+#insectPic{
+  width: 300px;
+  height: 250px;
+}
